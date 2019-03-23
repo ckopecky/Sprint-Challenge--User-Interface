@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML uses tags that literally mean what they say -- caption tags are captions, img tags are images, p tags are paragraphs, etc. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+`display: block` takes up the entire width of the row that it is in. It does not allow for another element to be next to it in the same line. You can add margin, padding to all four sides of a block element. 
+
+`display: inline` is displayed inside the block element on the same row. img, span and strong are examples of inline elements. You can add margin to the left and the right of the element but not to the top and the bottom. 
 
 3. What are the 4 areas of the box model?
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross-axis
+
 5. Explain why git is valuable to a team of developers.
+
+git allows for several developers to work on the same code base at the same time. It is super valuable tool. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
