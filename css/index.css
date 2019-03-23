@@ -71,6 +71,30 @@ p {
     margin: 0 auto;
 }
 
+.navbar {
+    display: block;
+    width: 800px;
+    margin-bottom: 40px;
+}
+
+.navbar img {
+    display: inline;
+}
+
+.navbar nav {
+    display: inline-block;
+    margin-left: 39px;
+    width: 600px;
+}
+
+.navbar nav a {
+    margin-right: 69px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
