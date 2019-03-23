@@ -93,6 +93,9 @@ p {
     color: black;
 }
 
+.container-image {
+    margin-bottom: 30px;
+}
 
 
 .top-content {
@@ -207,4 +210,50 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.container .about-section {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed black;
+}
+
+.about-page .top {
+    width: 370px;
+    margin-left: 0px;
+    display: inline-block;
+}
+
+.about-page .top div {
+    width: 370px;
+    display: inline-block;
+    border-bottom: 1px dashed black;
+    margin: 0px 35px 30px 0px;
+    padding-bottom: 30px;
+    
+
+}
+
+.about-page .top div p {
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+.about-page .top div h2 {
+    margin-top: 20px;
+}
+
+.about-page .top div button {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.about-page .top .office, .about-page .top .meeting {
+    margin-left: 55px;
+}
+
+.work-together {
+    margin-bottom: 30px;
 }
